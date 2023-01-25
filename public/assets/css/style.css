@@ -1,28 +1,6 @@
 html {
   height: 100%;
 }
-.dropdown:hover .dropdown-menu {
-  display: block;
-}
-
-.dropdown-menu {
-  display: none;
-  border-radius: 10px;
-  box-shadow: 4px -19px 35px 0 rgb(32 53 90 / 8%), 11px 11px 30px -10px rgb(32 53 90 / 15%);
-}
-
-.dropdown-item {
-  width: 300px;
-}
-
-.dropdown:hover .dropdown-toggle::after {
-  border-top: 0;
-  border-bottom: .3em solid;
-}
-.dropdown-toggle.show::after {
-  border-top: 0;
-  border-bottom: .3em solid;
-}
 
 body {
   background-color: #f8f9fa;
@@ -88,11 +66,6 @@ nav ul li {
 
 .small-para {
   font-size: 18px;
-}
-
-.nnn{
-  border: 1px solid black; 
-  border-radius: 50%;
 }
 
 .simplified {
