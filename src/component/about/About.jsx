@@ -13,7 +13,7 @@ export default function About() {
             </div>
             <div className="row align-items-center">
                 <div className="col-lg-5 pb-4 pb-lg-0">
-                    <img className="img-fluid rounded w-100 " src="assets/img/2.jpeg" alt=""/>
+                    <img className="img-fluid rounded w-100 " src="assets_2/img/2.jpeg" alt=""/>
                 </div>
                 <div className="col-lg-7">
                     <h3 className="mb-4">Web Designer & Web Developer</h3>

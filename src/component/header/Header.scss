@@ -1,3 +1,29 @@
 #home{
     min-height: 100vh;
 }
+.full h3{
+    color: black;
+    white-space: nowrap;
+    animation: text 4s steps(46) infinite alternate;
+    animation: texti 4s steps(37) infinite alternate;
+    overflow: hidden;
+    width: 0ch;
+    border-right: 2px solid red;
+    font-size: 30px;
+}
+@keyframes text{
+    0%{
+        width: 0ch;
+    }
+    100%{
+        width: 46ch;
+    }
+}
+@keyframes texti{
+    0%{
+        width: 0ch;
+    }
+    100%{
+        width: 37ch;
+    }
+}
