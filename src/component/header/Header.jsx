@@ -13,7 +13,7 @@ export default function Header() {
                 </div>
                 <div className="col-lg-7 text-center text-lg-left">
                     <h3 className="text-white font-weight-normal mb-3">I'm</h3>
-                    <h1 className="display-3 text-uppercase text-dark mb-2">Nipun Bansal</h1>
+                    <h1 className="display-3 text-uppercase text-dark mb-2"> hello world</h1>
                     <h1 className="typed-text-output d-inline font-weight-lighter text-white"></h1>
                     <div className="typed-text full"><h3>Full Stack Developer,Web Designer,Web Developer,</h3><h3>Front End Developer, Back End Developer</h3></div>
                     <div className="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
