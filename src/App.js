@@ -12,6 +12,7 @@ import Footer from "./component/footer/Footer";
 function App() {
   return (
     <>
+      <BrowserRouter>
         <Navbar />
         <Header />
         <About />
@@ -20,7 +21,9 @@ function App() {
         <Services />
         <Contact />
         <Footer />
+      </BrowserRouter>
     </>
-  )}
+  );
+}
 
 export default App;
