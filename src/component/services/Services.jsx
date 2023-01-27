@@ -9,7 +9,7 @@ export default function Services() {
     <div className="container-fluid pt-5" id="service">
         <div className="container">
             <div className="position-relative d-flex align-items-center justify-content-center">
-                <h1 className="display-1 text-uppercase text-white" id="service" >Service</h1>
+                <h1 className="display-1 text-uppercase text-white" id="servic" >Service</h1>
                 <h1 className="position-absolute text-uppercase text-primary">My Services</h1>
             </div>
             <div className="row pb-3">

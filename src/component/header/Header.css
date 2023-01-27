@@ -2,6 +2,10 @@
   min-height: 100vh;
 }
 
+#name {
+  -webkit-text-stroke: 2px #ffffff;
+}
+
 .full h3 {
   color: black;
   white-space: nowrap;

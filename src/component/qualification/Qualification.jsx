@@ -47,7 +47,7 @@ export default function Qualification() {
                                 diam ea lorem eirmod duo sit ipsum stet lorem diam</p>
                         </div>
                         <div className="position-relative mb-4">
-                            <i className="far fa-dot-circle text-primary position-absolute" id="b.com"></i>
+                            <i className="far fa-dot-circle text-primary position-absolute" id="bcom"></i>
                             <h5 className="font-weight-bold mb-1">B.Com</h5>
                             <p className="mb-2"><strong>DU Sol</strong> | <small>Studing</small></p>
                             <p>Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet

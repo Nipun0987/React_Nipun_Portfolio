@@ -8,7 +8,7 @@ export default function About() {
     <div className="container-fluid py-5" id="about">
         <div className="container">
             <div className="position-relative d-flex align-items-center justify-content-center">
-                <h1 className="display-1 text-uppercase text-white" id="about">About</h1>
+                <h1 className="display-1 text-uppercase text-white" id="abou" >About</h1>
                 <h1 className="position-absolute text-uppercase text-primary">About Me</h1>
             </div>
             <div className="row align-items-center">
@@ -32,7 +32,7 @@ export default function About() {
                             <h6>Degree: <span className="text-secondary">Studing</span></h6>
                         </div>
                         <div className="col-sm-6 py-2">
-                            <h6>Experience: <span className="text-secondary">Yes</span></h6>
+                            <h6>Experience: <span className="text-secondary">1 Year</span></h6>
                         </div>
                         <div className="col-sm-6 py-2">
                             <h6>Phone: <span className="text-secondary">+91 9311828408</span></h6>
@@ -49,7 +49,7 @@ export default function About() {
                             <h6>Freelance: <span className="text-secondary">Nipun B.@nipunbansal0987</span></h6>
                         </div>
                     </div>
-                    <a href="#contact" className="btn btn-outline-primary mr-4">Hire Me</a>
+                    <a href="#contact" className="btn btn-outline-primary mr-4 rounded-pill">Hire Me</a>
                 </div>
             </div>
         </div>
