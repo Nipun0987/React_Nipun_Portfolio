@@ -7,7 +7,7 @@
 }
 
 .full h3 {
-  color: black;
+  color: white;
   white-space: nowrap;
   -webkit-animation: text 4s steps(46) infinite alternate;
           animation: text 4s steps(46) infinite alternate;
