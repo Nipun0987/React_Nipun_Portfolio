@@ -2,3 +2,11 @@
   -webkit-text-stroke: 1px #dee2e6;
   font-size: 160px;
 }/*# sourceMappingURL=Skills.css.map */
+
+.progress .progress-bar{
+    width: 50px;
+    height: 10px;
+    transition: 0.9s;
+    background-color: #0563bb;
+
+}
