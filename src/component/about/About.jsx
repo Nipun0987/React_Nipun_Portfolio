@@ -49,7 +49,7 @@ export default function About() {
                             <h6>Freelance: <span className="text-secondary">Nipun B.@nipunbansal0987</span></h6>
                         </div>
                     </div>
-                    <a href="#contact" className="btn btn-outline-primary mr-4 rounded-pill">Hire Me</a>
+                    <a href="./About_more.jsx" target="blank" className="btn btn-outline-primary mr-4 rounded-pill">More</a>
                 </div>
             </div>
         </div>
