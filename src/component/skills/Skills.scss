@@ -3,72 +3,165 @@
   font-size: 160px;
 } /*# sourceMappingURL=Skills.css.map */
 
-.progress .progress-bar1 {
-  width: 530px;
-  height: 20px;
-  transition: 0.9s;
-  background-color: #0563bb;
+.progress-bar1 {
+  animation: load1 3s normal forwards;
+  box-shadow: 0 10px 40px -10px #fff;
+  border-radius: 100px;
+  background: black;
+  height: 15px;
 }
 
-.progress .progress-bar2 {
-  width: 480px;
-  height: 20px;
-  transition: 0.9s;
-  background-color: #0563bb;
+@keyframes load1 {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 95%;
+  }
 }
 
-.progress .progress-bar3 {
-  width: 450px;
-  height: 20px;
-  transition: 0.9s;
-  background-color: #0563bb;
+.progress-bar2 {
+  animation: load2 3s normal forwards;
+  box-shadow: 0 10px 40px -10px #fff;
+  border-radius: 100px;
+  background: black;
+  height: 15px;
 }
 
-.progress .progress-bar4 {
-  width: 500px;
-  height: 20px;
-  transition: 0.9s;
-  background-color: #0563bb;
+@keyframes load2 {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 80%;
+  }
 }
 
-.progress .progress-bar5 {
-  width: 520px;
-  height: 20px;
-  transition: 0.9s;
-  background-color: #0563bb;
+.progress-bar3 {
+  animation: load3 3s normal forwards;
+  box-shadow: 0 10px 40px -10px #fff;
+  border-radius: 100px;
+  background: black;
+  height: 15px;
 }
 
-.progress .progress-bar6 {
-  width: 500px;
-  height: 20px;
-  transition: 0.9s;
-  background-color: #0563bb;
+@keyframes load3 {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 70%;
+  }
+}
+.progress-bar4 {
+  animation: load4 3s normal forwards;
+  box-shadow: 0 10px 40px -10px #fff;
+  border-radius: 100px;
+  background: black;
+  height: 15px;
 }
 
-.progress .progress-bar7 {
-  width: 450px;
-  height: 20px;
-  transition: 0.9s;
-  background-color: #0563bb;
+@keyframes load4 {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 90%;
+  }
+}
+.progress-bar5 {
+  animation: load5 3s normal forwards;
+  box-shadow: 0 10px 40px -10px #fff;
+  border-radius: 100px;
+  background: black;
+  height: 15px;
 }
 
-.progress .progress-bar8 {
-  width: 440px;
-  height: 20px;
-  transition: 0.9s;
-  background-color: #0563bb;
+@keyframes load5 {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 95%;
+  }
+}
+.progress-bar6 {
+  animation: load6 3s normal forwards;
+  box-shadow: 0 10px 40px -10px #fff;
+  border-radius: 100px;
+  background: black;
+  height: 15px;
 }
 
-.progress .progress-bar9 {
-  width: 495px;
-  height: 20px;
-  transition: 0.9s;
-  background-color: #0563bb;
+@keyframes load6 {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 90%;
+  }
+}
+.progress-bar7 {
+  animation: load7 3s normal forwards;
+  box-shadow: 0 10px 40px -10px #fff;
+  border-radius: 100px;
+  background: black;
+  height: 15px;
 }
 
-.progress .progress-bar10 {
-  width: 480px;
-  height: 20px;
-  transition: 0.9s;
-  background-color: #0563bb;
+@keyframes load7 {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 70%;
+  }
+}
+.progress-bar8 {
+  animation: load8 3s normal forwards;
+  box-shadow: 0 10px 40px -10px #fff;
+  border-radius: 100px;
+  background: black;
+  height: 15px;
+}
+
+@keyframes load8 {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 69%;
+  }
+}
+.progress-bar9 {
+  animation: load9 3s normal forwards;
+  box-shadow: 0 10px 40px -10px #fff;
+  border-radius: 100px;
+  background: black;
+  height: 15px;
+}
+
+@keyframes load9 {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 85%;
+  }
+}
+.progress-bar10 {
+  animation: load10 3s normal forwards;
+  box-shadow: 0 10px 40px -10px #fff;
+  border-radius: 100px;
+  background: black;
+  height: 15px;
+}
+
+@keyframes load10 {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 80%;
+  }
 }

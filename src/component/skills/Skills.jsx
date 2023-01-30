@@ -17,10 +17,10 @@ export default function Skills() {
                     <div className="skill mb-4">
                         <div className="d-flex justify-content-between">
                             <h6 className="font-weight-bold">HTML</h6>
-                            <h6 className="font-weight-bold">99%</h6>
+                            <h6 className="font-weight-bold">95%</h6>
                         </div>
                         <div className="progress">
-                            <div className="progress-bar1 bg-primary" role="progressbar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar1 bg-primary" aria-valuenow="95"></div>
                         </div>
                     </div>
 
@@ -30,7 +30,7 @@ export default function Skills() {
                             <h6 className="font-weight-bold">80%</h6>
                         </div>
                         <div className="progress">
-                            <div className="progress-bar2 bg-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar2 bg-danger" aria-valuenow="80"></div>
                         </div>
                     </div>
                     
@@ -40,7 +40,7 @@ export default function Skills() {
                             <h6 className="font-weight-bold">70%</h6>
                         </div>
                         <div className="progress">
-                            <div className="progress-bar3 bg-dark" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar3 bg-dark" aria-valuenow="70"></div>
                         </div>
                     </div>
                     <div className="skill mb-4">
@@ -49,7 +49,7 @@ export default function Skills() {
                             <h6 className="font-weight-bold">90%</h6>
                         </div>
                         <div className="progress">
-                            <div className="progress-bar4 bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar4 bg-warning" aria-valuenow="90"></div>
                         </div>
                     </div>
                     <div className="skill mb-4">
@@ -58,7 +58,7 @@ export default function Skills() {
                             <h6 className="font-weight-bold">95%</h6>
                         </div>
                         <div className="progress">
-                            <div className="progress-bar5 bg-info" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar5 bg-info" aria-valuenow="95"></div>
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@ export default function Skills() {
                             <h6 className="font-weight-bold">90%</h6>
                         </div>
                         <div className="progress">
-                            <div className="progress-bar6 bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar6 bg-warning" aria-valuenow="90"></div>
                         </div>
                     </div>
                    
@@ -81,7 +81,7 @@ export default function Skills() {
                             <h6 className="font-weight-bold">70%</h6>
                         </div>
                         <div className="progress">
-                            <div className="progress-bar7 bg-info" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar7 bg-info" aria-valuenow="70"></div>
                         </div>
                     </div>
                     <div className="skill mb-4">
@@ -90,7 +90,7 @@ export default function Skills() {
                             <h6 className="font-weight-bold">69%</h6>
                         </div>
                         <div className="progress">
-                            <div className="progress-bar8 bg-primary" role="progressbar" aria-valuenow="69" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar8 bg-primary" aria-valuenow="69"></div>
                         </div>
                     </div>
                     <div className="skill mb-4">
@@ -99,7 +99,7 @@ export default function Skills() {
                             <h6 className="font-weight-bold">85%</h6>
                         </div>
                         <div className="progress">
-                            <div className="progress-bar9 bg-danger" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar9 bg-danger" aria-valuenow="85"></div>
                         </div>
                     </div>
                     <div className="skill mb-4">
@@ -108,7 +108,7 @@ export default function Skills() {
                             <h6 className="font-weight-bold">80%</h6>
                         </div>
                         <div className="progress">
-                            <div className="progress-bar10 bg-dark" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar10 bg-dark" aria-valuenow="80"></div>
                         </div>
                     </div>
                 </div>
