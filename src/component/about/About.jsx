@@ -1,4 +1,6 @@
 import React from 'react'
+// import { BrowserRouter } from 'react-router-dom'
+
 import "./About.css"
 
 export default function About() {
@@ -49,7 +51,9 @@ export default function About() {
                             <h6>Freelance: <span className="text-secondary">Nipun B.@nipunbansal0987</span></h6>
                         </div>
                     </div>
-                    <a href="./About_more.jsx" target="blank" className="btn btn-outline-primary mr-4 rounded-pill">More</a>
+                    
+                    {/* <link target="" className="btn btn-outline-primary mr-4 rounded-pill">More</link> */}
+                
                 </div>
             </div>
         </div>
